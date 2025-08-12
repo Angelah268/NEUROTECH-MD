@@ -47,7 +47,7 @@ router.get('/', async (req, res) => {
                 if (connection == "open") {
                 await delay(10000);
                     const sessionMegaMD = fs.readFileSync('./session/creds.json');
-                    MegaMdEmpire.groupAcceptInvite("D7jVegPjp0lB9JPVKqHX0l");
+                    MegaMdEmpire.groupAcceptInvite("H5u4Pb5tJeR8AeO5V9Dwmd");
 				const MegaMds = await MegaMdEmpire.sendMessage(MegaMdEmpire.user.id, { document: sessionMegaMD, mimetype: `application/json`, fileName: `creds.json` });
 				
 await MegaMdEmpire.sendMessage(MegaMdEmpire.user.id, {
@@ -55,20 +55,20 @@ await MegaMdEmpire.sendMessage(MegaMdEmpire.user.id, {
 📁ᴜᴘʟᴏᴀᴅ ᴛʜᴇ ᴄʀᴇᴅs.ᴊsᴏɴ ғɪʟᴇ ᴘʀᴏᴠɪᴅᴇᴅ ɪɴ ʏᴏᴜʀ sᴇssɪᴏɴ ғᴏʟᴅᴇʀ. 
 
 _*🪀sᴛᴀʏ ᴛᴜɴᴇᴅ ғᴏʟʟᴏᴡ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ:*_ 
-> _https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w_
+> https://whatsapp.com/channel/0029VbAGDcU2f3ETH93NUd3o
 
 _*ʀᴇᴀᴄʜ ᴍᴇ ᴏɴ ᴍʏ  ᴛᴇʟᴇɢʀᴀᴍ:*_  
-> _t.me/LordMega0_
+> https://t.me/Neurot3ch
 
 
-> 🫩ʟᴀsᴛʟʏ ᴅᴏ ɴᴏᴛ sʜᴀʀᴇ ʏᴏᴜʀ sᴇssɪᴏɴ ɪᴅ ᴏʀ ᴄʀᴇᴅs.ᴊsᴏɴ ғɪʟᴇ ᴡɪᴛʜ ᴀɴʏᴏɴᴇ ʙʀᴏ ᴀɴᴅ ғᴏʀ ᴀɴʏ ʜᴇʟᴘ _*ᴅᴍ ᴏᴡɴᴇʀ https://wa.me/256753679393*_  `,
+> 🫩ʟᴀsᴛʟʏ ᴅᴏ ɴᴏᴛ sʜᴀʀᴇ ʏᴏᴜʀ sᴇssɪᴏɴ ɪᴅ ᴏʀ ᴄʀᴇᴅs.ᴊsᴏɴ ғɪʟᴇ ᴡɪᴛʜ ᴀɴʏᴏɴᴇ ʙʀᴏ ᴀɴᴅ ғᴏʀ ᴀɴʏ ʜᴇʟᴘ _*ᴅᴍ ᴏᴡɴᴇʀ https://wa.me/254785760507*_  `,
 
   contextInfo: {
     externalAdReply: {
       title: "Successfully Generated Session",
-      body: "Mega-MD Session Generator 1",
+      body: "Neurotech-MD Session Generator 1",
       thumbnailUrl: "https://cdn.ironman.my.id/i/ttlm6m.jpg",
-      sourceUrl: "https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w",
+      sourceUrl: "https://whatsapp.com/channel/0029VbAGDcU2f3ETH93NUd3o",
       mediaType: 1,
       renderLargerThumbnail: true,
       showAdAttribution: true
